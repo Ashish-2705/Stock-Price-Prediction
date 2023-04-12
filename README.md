@@ -1,7 +1,7 @@
 # Stock-Price-Prediction
 Corizo - Minor Project On Stock Price Prediction Using Long Short-Term Memory(LSTM) Networks.
 
-**Attribute Information :**
+## Attribute Information :
 
 **Open** - The price the stock opened at.<br/>
 **High** - The highest price during the day.</br>
