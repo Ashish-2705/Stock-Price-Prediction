@@ -1,4 +1,4 @@
-# Stock-Price-Prediction
+# Corizo - Minor Project on Stock-Price-Prediction
 Corizo - Minor Project On Stock Price Prediction Using Long Short-Term Memory(LSTM) Networks.
 
 ## Attribute Information :
